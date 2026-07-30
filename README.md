@@ -1,7 +1,13 @@
 # 🧠 AI Therapist 2.0
 
+<h1 align="center">🧠 AI Therapist 2.0</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wasim-1432/AI-Therapist/master/assets/logo.png" alt="AI Therapist Logo" width="160"/>
+  <img src="https://github.com/wasim-1432.png" width="140" alt="AI Therapist Logo"/>
+</p>
+
+<p align="center">
+  🤖 <b>Your Empathetic AI Mental Wellness Companion</b>
 </p>
 
 <p align="center">
